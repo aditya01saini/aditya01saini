@@ -1,65 +1,79 @@
 <div align="center">
 
-<!-- ========================= HERO ========================= -->
+<!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0369a1,100:06b6d4&height=240&section=header&text=Aditya%20Saini&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<!--                     HERO / BANNER                         -->
+
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0f172a,45:0c4a6e,75:0369a1,100:06b6d4&height=260&section=header&text=ADITYA%20SAINI&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling"/>
 
 <h1>👋 Hi, I'm Aditya Saini</h1>
 
-<h3>🚀 Full Stack Developer • 🤖 Generative AI Enthusiast • ⚙️ Backend Developer</h3>
+<h3>
+🚀 Full Stack Developer &nbsp;•&nbsp;
+🤖 Generative AI Enthusiast &nbsp;•&nbsp;
+⚙️ Backend Developer
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Building+Modern+Web+Applications;Exploring+Generative+AI+%26+LLMs;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL+%7C+REST+APIs;LangChain+%7C+Prompt+Engineering;Turning+Ideas+Into+Real+World+Projects+🚀" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+Modern+Full+Stack+Applications;Engineering+REST+APIs+%26+Backend+Systems;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;PostgreSQL+%7C+JavaScript+%7C+Python;Exploring+Generative+AI+%7C+LLMs+%7C+LangChain;Turning+Ideas+Into+Real+World+Projects+🚀" alt="Typing animation"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=aditya01saini&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/aditya01saini?label=FOLLOWERS&style=for-the-badge&color=2563eb"/>
-<img src="https://img.shields.io/github/stars/aditya01saini?label=STARS&style=for-the-badge&color=f59e0b"/>
+<img src="https://komarev.com/ghpvc/?username=aditya01saini&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/aditya01saini?label=FOLLOWERS&style=for-the-badge&color=2563eb" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/aditya01saini?label=STARS&style=for-the-badge&color=f59e0b" alt="Stars"/>
 
 <br/><br/>
 
 <a href="https://github.com/aditya01saini">
-<img src="https://img.shields.io/badge/GitHub-Profile-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/aditya-saini">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:adityasaini35947@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
+
+<!-- ========================================================= -->
+
+<!--                  PROFESSIONAL SUMMARY                      -->
+
+<!-- ========================================================= -->
 
 👨‍💻 Professional Summary
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="64%" valign="top">
 
-🚀 About Me
+🚀 Who I Am
 
-I'm Aditya Saini, a B.Tech student at Quantum University and a passionate Full Stack Developer focused on building modern, scalable and user-friendly web applications.
+I'm Aditya Saini, a B.Tech student at Quantum University and a passionate Full Stack Developer who enjoys designing, developing and improving real-world web applications.
 
-My development journey started with frontend development and expanded into backend engineering, REST APIs, databases, authentication and full-stack architecture.
+My core development focus is full-stack JavaScript development, with hands-on experience across frontend interfaces, backend APIs, authentication, databases and application architecture.
 
-I'm now extending my skills into Generative AI, exploring LLMs, LangChain, Prompt Engineering and AI-powered applications.
+I'm also expanding into Generative AI, exploring LLMs, LangChain, Prompt Engineering and AI-powered application development.
 
-I enjoy turning ideas into real products, solving development problems and learning through hands-on projects.
+I learn by building. Every project helps me understand a new technology, solve a new problem and write better software.
 
-🎯 My Goal
+🎯 My Current Direction
 
-Build production-ready applications by combining Full Stack Development + Artificial Intelligence.
+Full Stack Engineering + Backend Systems + Generative AI
 
 </td>
 
-<td width="40%" valign="top">
+<td width="36%" valign="top">
 
 ⚡ Quick Profile
 
 🎓 Education
 B.Tech — Quantum University
 
-💻 Primary Role
+💻 Role
 Full Stack Developer
 
 🤖 AI Focus
@@ -71,110 +85,101 @@ React.js • JavaScript
 ⚙️ Backend
 Node.js • Express.js
 
-🗄️ Database
+🗄️ Databases
 MongoDB • PostgreSQL • MySQL
 
 🔗 APIs
 REST APIs
 
-📍 Location
+📍 Country
 India
 
 </td>
 </tr>
 </table>
 
-📊 Developer Dashboard
-
-<div align="center">
+🧭 What I Do
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="25%">
 
-📈 Contribution Activity
+🌐
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya01saini&bg_color=0d1117&color=38bdf8&line=06b6d4&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="420"/>
+Full Stack
+
+Building complete web applications from UI to database.
 
 </td>
-<td align="center">
 
-📦 Total Repositories
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/github/repo-count/aditya01saini?style=for-the-badge&label=TOTAL%20REPOS&color=0ea5e9" />
+⚙️
 
-<br/><br/>
+Backend
 
-⭐ Stars Received
+Creating APIs, authentication flows and database-driven services.
 
-<img src="https://img.shields.io/github/stars/aditya01saini?style=for-the-badge&label=STARS%20GOT&color=f59e0b" />
+</td>
 
-<br/><br/>
+<td align="center" width="25%">
 
-🔥 Contribution Streak
+🤖
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Daditya01saini%26hide_border%3Dtrue&query=%24.currentStreak&label=STREAK&style=for-the-badge&color=ef4444" />
+AI
+
+Exploring LLMs, Generative AI and AI-powered products.
+
+</td>
+
+<td align="center" width="25%">
+
+🧠
+
+Problem Solving
+
+Learning through projects, debugging and continuous improvement.
 
 </td>
 </tr>
 </table>
 
-</div>
+<!-- ========================================================= -->
 
-🔥 Contribution Streak
+<!--                     TECH STACK                            -->
 
-<div align="center">
+<!-- ========================================================= -->
 
-<img src="https://streak-stats.demolab.com?user=aditya01saini&theme=tokyonight&hide_border=true&border_radius=14&mode=weekly"/>
+🛠️ Technology Arsenal
 
-</div>
-
-📈 Commit Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya01saini&bg_color=0d1117&color=38bdf8&line=22c55e&point=ffffff&area=true&hide_border=true&custom_title=Aditya%20Saini%20-%20Commit%20Activity"/>
-
-</div>
-
-🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aditya01saini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
-
-</div>
-
-🧠 My Development Stack
-
-💻 Programming Languages
+💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript" alt="Languages"/>
 </p>
 
-🎨 Frontend Development
+🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,tailwind,bootstrap" alt="Frontend"/>
 </p>
 
-⚙️ Backend Development
+⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
 </p>
 
 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Databases"/>
 </p>
 
-🤖 AI / Data
+🤖 AI & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,pytorch" alt="AI tools"/>
 </p>
 
 <p>
@@ -190,12 +195,53 @@ India
 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,firebase" alt="Tools"/>
 </p>
+
+<!-- ========================================================= -->
+
+<!--                    AI JOURNEY                             -->
+
+<!-- ========================================================= -->
+
+🤖 Generative AI Journey
+
+I'm extending my Full Stack foundation into Generative AI and learning how intelligent systems can be integrated into real applications.
+
+                         🤖 GENERATIVE AI
+                                │
+             ┌──────────────────┼──────────────────┐
+             ▼                  ▼                  ▼
+           🧠 LLMs       ✍️ Prompt Engineering   🔗 LangChain
+             │                  │                  │
+             └──────────────────┼──────────────────┘
+                                ▼
+                       💬 AI Applications
+                                │
+                     ┌──────────┴──────────┐
+                     ▼                     ▼
+                 AI Chatbots         RAG / Search
+                     │                     │
+                     └──────────┬──────────┘
+                                ▼
+                    🌐 Full Stack Integration
+                                │
+                                ▼
+                         🚀 AI Products
+
+🔬 Currently Exploring
+
+Generative AI LLMs LangChain Prompt Engineering AI Chatbots RAG LLM APIs AI + Full Stack
+
+<!-- ========================================================= -->
+
+<!--                 FEATURED PROJECTS                          -->
+
+<!-- ========================================================= -->
 
 🚀 Featured Projects
 
-A selection of projects I've built while developing my Full Stack and AI skills.
+A collection of projects I've built while developing my Full Stack, backend and AI skills.
 
 <table>
 <tr>
@@ -205,12 +251,12 @@ A selection of projects I've built while developing my Full Stack and AI skills.
 
 Student Management Platform
 
-A full-stack platform designed to manage student-related operations through a modern web interface and backend services.
+A full-stack student management project focused on organizing student-related workflows through a web interface and backend services.
 
 Stack: JavaScript Node.js Express.js MongoDB
 
 <a href="https://github.com/aditya01saini/studenthub">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -221,12 +267,12 @@ Stack: JavaScript Node.js Express.js MongoDB
 
 AI / Chat Application
 
-An AI-focused project exploring conversational interfaces and AI integration in modern web applications.
+An AI-focused project exploring conversational interfaces and AI integration in web applications.
 
 Stack: JavaScript AI
 
 <a href="https://github.com/aditya01saini/NovaGPT">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8b5cf6?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -237,14 +283,14 @@ Stack: JavaScript AI
 
 🛒 SmartCart E-Commerce
 
-E-Commerce Web Application
+E-Commerce Application
 
-A shopping platform project focused on modern e-commerce UI and application functionality.
+A shopping-focused web project designed around modern e-commerce functionality.
 
 Stack: JavaScript
 
 <a href="https://github.com/aditya01saini/smartcart-ecommerce">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -255,12 +301,12 @@ Stack: JavaScript
 
 Freelancer Hub Platform
 
-A platform concept for connecting freelancers and clients through a modern web interface.
+A JavaScript-based platform concept focused on freelancer and client interactions.
 
 Stack: JavaScript
 
 <a href="https://github.com/aditya01saini/codeHunt-freelancer-hub-platform">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -273,12 +319,12 @@ Stack: JavaScript
 
 Communication Application
 
-A web-based project focused on creating a modern chat and communication experience.
+A web-based project focused on building a modern communication and chat experience.
 
 Stack: JavaScript
 
 <a href="https://github.com/aditya01saini/ChatFlow-HUB">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06b6d4?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -289,12 +335,12 @@ Stack: JavaScript
 
 Video Communication App
 
-A web-based video communication project exploring real-time communication concepts.
+A web project exploring browser-based video communication concepts.
 
 Stack: JavaScript
 
 <a href="https://github.com/aditya01saini/VideoCall_1">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06b6d4?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -307,12 +353,12 @@ Stack: JavaScript
 
 Property Listing Application
 
-A web project inspired by property and travel listing platforms.
+A web project inspired by modern property and travel listing platforms.
 
 Stack: JavaScript
 
 <a href="https://github.com/aditya01saini/airbnb-project1">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F97316?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -323,12 +369,12 @@ Stack: JavaScript
 
 E-Commerce UI
 
-An Amazon-inspired frontend project created to practice e-commerce UI development.
+An Amazon-inspired frontend project built to practice e-commerce interface development.
 
 Stack: HTML
 
 <a href="https://github.com/aditya01saini/Amazon-clone">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-f97316?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -339,14 +385,14 @@ Stack: HTML
 
 🐙 GitHub Clone
 
-GitHub-Inspired Application
+GitHub-Inspired Web App
 
-A project built to practice GitHub-style interfaces and web development concepts.
+A project created to practice GitHub-style interfaces and web development concepts.
 
 Stack: JavaScript
 
 <a href="https://github.com/aditya01saini/github-clone">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-6366f1?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -355,14 +401,14 @@ Stack: JavaScript
 
 🔐 Digital Signature App
 
-Digital Signature Application
+Digital Signature Project
 
-A project focused on digital-signature functionality and document workflows.
+A project focused on digital signature functionality and document-oriented workflows.
 
 Stack: JavaScript
 
 <a href="https://github.com/aditya01saini/Digital-Signature-App">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -380,7 +426,7 @@ A JavaScript project exploring modern web development and cloud-oriented functio
 Stack: JavaScript
 
 <a href="https://github.com/aditya01saini/cloudHub">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06b6d4?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -396,7 +442,7 @@ A JavaScript project focused on API flows and backend functionality.
 Stack: JavaScript API
 
 <a href="https://github.com/aditya01saini/ratemeter-api-flow">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-22c55e?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-16A34A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -414,73 +460,98 @@ A web development project inspired by professional networking platforms.
 Stack: JavaScript
 
 <a href="https://github.com/aditya01saini/Linkedin_01">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563eb?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-🚀 More Projects
+📂 Explore Everything
+
+More Repositories
 
 I continuously build, experiment and learn through new projects.
 
 <a href="https://github.com/aditya01saini?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-🤖 Generative AI Journey
+📊 GitHub Developer Dashboard
 
-I'm moving beyond traditional web development toward AI-powered software engineering.
+<div align="center">
 
-                   🤖 GENERATIVE AI
-                          │
-            ┌─────────────┼─────────────┐
-            ▼             ▼             ▼
-          LLMs       Prompt Eng.    LangChain
-            │             │             │
-            └─────────────┼─────────────┘
-                          ▼
-                    AI Applications
-                          │
-                          ▼
-                    RAG / Chatbots
-                          │
-                          ▼
-                 Full Stack Integration
-                          │
-                          ▼
-                🚀 Intelligent Products
+📈 Contribution Activity
 
-🔬 Currently Exploring
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya01saini&bg_color=0d1117&color=38bdf8&line=06b6d4&point=ffffff&area=true&hide_border=true&custom_title=Aditya%20Saini%20-%20Contribution%20Activity" width="92%" alt="Contribution Activity Graph"/>
 
-🧠 Large Language Models
+<br/><br/>
 
-🤖 Generative AI
+<table>
+<tr>
+<td align="center">
 
-🔗 LangChain
+📦 Total Repositories
 
-✍️ Prompt Engineering
+<img src="https://img.shields.io/badge/13%2B%20Projects-Built-0ea5e9?style=for-the-badge" alt="Projects"/>
 
-💬 AI Chatbots
+</td>
 
-📚 RAG Applications
+<td align="center">
 
-🔌 LLM API Integration
+⭐ Stars Got
 
-🌐 AI + Full Stack Applications
+<img src="https://img.shields.io/github/stars/aditya01saini?style=for-the-badge&label=STARS&color=f59e0b" alt="Stars"/>
+
+</td>
+
+<td align="center">
+
+👥 Followers
+
+<img src="https://img.shields.io/github/followers/aditya01saini?style=for-the-badge&label=FOLLOWERS&color=2563eb" alt="Followers"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=aditya01saini&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=aditya01saini&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya01saini&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya01saini&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aditya01saini&theme=tokyonight&hide_border=true&border_radius=14&mode=weekly" alt="Contribution Streak"/>
+
+</div>
+
+📈 Commit Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya01saini&bg_color=0d1117&color=60a5fa&line=22c55e&point=ffffff&area=true&hide_border=true&custom_title=Aditya%20Saini%20-%20Commit%20Activity" width="92%" alt="Commit Graph"/>
+
+</div>
+
+🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aditya01saini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -488,9 +559,52 @@ I'm moving beyond traditional web development toward AI-powered software enginee
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aditya01saini/aditya01saini/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/aditya01saini/aditya01saini/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
+
+🧩 Contribution Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya01saini&theme=github_dark" width="96%" alt="Profile Details"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya01saini&theme=github_dark" height="170" alt="Repositories per language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya01saini&theme=github_dark" height="170" alt="Most commit language"/>
+
+</div>
+
+🧠 Developer Mindset
+
+                         💡 IDEA
+                           │
+                           ▼
+                       🧠 LEARN
+                           │
+                           ▼
+                       🏗️ DESIGN
+                           │
+                           ▼
+                       💻 BUILD
+                           │
+                           ▼
+                       🧪 TEST
+                           │
+                           ▼
+                      🐛 DEBUG
+                           │
+                           ▼
+                       🚀 SHIP
+                           │
+                           ▼
+                      📈 IMPROVE
+                           │
+                           └───────────────► 🔁 REPEAT
+
+"Don't just learn technology. Build something with it."
 
 🎯 2026 Goals
 
@@ -498,7 +612,7 @@ I'm moving beyond traditional web development toward AI-powered software enginee
 <tr>
 <td width="50%" valign="top">
 
-🌐 Full Stack Development
+🌐 Full Stack Engineering
 
 React.js
 
@@ -512,15 +626,17 @@ PostgreSQL
 
 Advanced Backend Architecture
 
+Scalable REST API Design
+
 Production-Level Applications
 
-Scalable API Design
+Cloud Deployment
 
 </td>
 
 <td width="50%" valign="top">
 
-🤖 Artificial Intelligence
+🤖 AI Engineering
 
 Generative AI
 
@@ -536,11 +652,28 @@ AI + MERN Applications
 
 Production AI Systems
 
+Open Source AI Contributions
+
 </td>
 </tr>
 </table>
 
-📬 Let's Connect
+💼 What I'm Looking For
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/💻%20Full%20Stack%20Internships-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20AI%20Projects-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤝%20Open%20Source-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20Collaboration-F59E0B?style=for-the-badge"/>
+
+<br/><br/>
+
+I'm interested in Full Stack Development, Backend Engineering, Generative AI and AI-powered applications.
+
+</div>
+
+📫 Connect With Me
 
 <div align="center">
 
@@ -560,14 +693,14 @@ Production AI Systems
 
 <div align="center">
 
-💙 Build. Learn. Ship. Repeat. 🚀
+🚀 BUILD • LEARN • SHIP • REPEAT
 
-Thanks for visiting my GitHub profile!
+⭐ Thanks for visiting my GitHub profile!
 
-⭐ Explore my repositories • 🤝 Let's collaborate • 🚀 Let's build something amazing
+If you find something interesting, feel free to explore the repositories and connect with me.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0369a1,100:06b6d4&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0f172a,45:0c4a6e,75:0369a1,100:06b6d4&height=150&section=footer&animation=twinkling"/>
 
 </div>
