@@ -29,7 +29,7 @@
 <a href="https://github.com/aditya01saini">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/aditya-saini">
+<a href="https://www.linkedin.com/in/aditya-saini-136781324">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:adityasaini35947@gmail.com">
@@ -681,7 +681,7 @@ I'm interested in Full Stack Development, Backend Engineering, Generative AI and
 <img src="https://img.shields.io/badge/GitHub-Aditya%20Saini-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/aditya-saini">
+<a href="https://www.linkedin.com/in/aditya-saini-136781324">
 <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Saini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
