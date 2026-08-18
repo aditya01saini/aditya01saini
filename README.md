@@ -1,199 +1,185 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=230&section=header&text=Aditya%20Saini&fontSize=58&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
+<!-- ========================= HERO ========================= -->
 
-# 👋 Hi, I'm Aditya Saini
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0369a1,100:06b6d4&height=240&section=header&text=Aditya%20Saini&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-### 🚀 Full Stack Developer | 🤖 Generative AI Enthusiast | 🧠 Backend Developer
+<h1>👋 Hi, I'm Aditya Saini</h1>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Modern+Full+Stack+Applications;Exploring+Generative+AI+%26+LLMs;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;PostgreSQL+%7C+REST+APIs+%7C+AI+Integration;Turning+Ideas+Into+Real+World+Projects+🚀" alt="Typing SVG"/>
-</p>
+<h3>🚀 Full Stack Developer • 🤖 Generative AI Enthusiast • ⚙️ Backend Developer</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=aditya01saini&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/aditya01saini?label=FOLLOWERS&style=for-the-badge&color=2563eb"/>
-  <img src="https://img.shields.io/github/stars/aditya01saini?label=STARS&style=for-the-badge&color=f59e0b"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Building+Modern+Web+Applications;Exploring+Generative+AI+%26+LLMs;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL+%7C+REST+APIs;LangChain+%7C+Prompt+Engineering;Turning+Ideas+Into+Real+World+Projects+🚀" alt="Typing SVG"/>
 
-<p>
-  <a href="https://github.com/aditya01saini">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/aditya-saini">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:adityasaini35947@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=aditya01saini&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/aditya01saini?label=FOLLOWERS&style=for-the-badge&color=2563eb"/>
+<img src="https://img.shields.io/github/stars/aditya01saini?label=STARS&style=for-the-badge&color=f59e0b"/>
+
+<br/><br/>
+
+<a href="https://github.com/aditya01saini">
+<img src="https://img.shields.io/badge/GitHub-Profile-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/aditya-saini">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:adityasaini35947@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
----
-
-## 👨‍💻 About Me
+👨‍💻 Professional Summary
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-### Hi, I'm Aditya 👋
+🚀 About Me
 
-I'm a **B.Tech student at Quantum University** and a passionate **Full Stack Developer** who enjoys building practical, scalable and user-focused web applications.
+I'm Aditya Saini, a B.Tech student at Quantum University and a passionate Full Stack Developer focused on building modern, scalable and user-friendly web applications.
 
-My development journey started with web development and gradually expanded toward **backend engineering, databases, APIs and Generative AI**.
+My development journey started with frontend development and expanded into backend engineering, REST APIs, databases, authentication and full-stack architecture.
 
-I'm particularly interested in combining **Full Stack Development + Artificial Intelligence** to create applications that are not only functional but also intelligent.
+I'm now extending my skills into Generative AI, exploring LLMs, LangChain, Prompt Engineering and AI-powered applications.
 
-I believe the best way to learn technology is to **build real projects, solve real problems and continuously improve**.
+I enjoy turning ideas into real products, solving development problems and learning through hands-on projects.
+
+🎯 My Goal
+
+Build production-ready applications by combining Full Stack Development + Artificial Intelligence.
 
 </td>
 
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
-### ⚡ Quick Profile
+⚡ Quick Profile
 
-🎓 **Education**
+🎓 Education
 B.Tech — Quantum University
 
-💻 **Role**
+💻 Primary Role
 Full Stack Developer
 
-🤖 **Focus**
-Generative AI & LLM Applications
+🤖 AI Focus
+Generative AI & LLMs
 
-🌐 **Frontend**
-React.js, JavaScript, HTML, CSS
+🌐 Frontend
+React.js • JavaScript
 
-⚙️ **Backend**
-Node.js, Express.js, REST APIs
+⚙️ Backend
+Node.js • Express.js
 
-🗄️ **Databases**
-MongoDB, PostgreSQL, MySQL
+🗄️ Database
+MongoDB • PostgreSQL • MySQL
 
-🧠 **AI**
-Generative AI, LLMs, Prompt Engineering, LangChain
+🔗 APIs
+REST APIs
 
-📍 **Based in**
+📍 Location
 India
 
 </td>
 </tr>
 </table>
 
----
+📊 Developer Dashboard
 
-# 🚀 What I Do
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center">
 
-### 🌐
+📈 Contribution Activity
 
-### Full Stack
-
-Building complete web applications from frontend to backend.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya01saini&bg_color=0d1117&color=38bdf8&line=06b6d4&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="420"/>
 
 </td>
+<td align="center">
 
-<td align="center" width="25%">
+📦 Total Repositories
 
-### ⚙️
+<img src="https://img.shields.io/github/repo-count/aditya01saini?style=for-the-badge&label=TOTAL%20REPOS&color=0ea5e9" />
 
-### Backend
+<br/><br/>
 
-Designing REST APIs, authentication systems and database-driven applications.
+⭐ Stars Received
 
-</td>
+<img src="https://img.shields.io/github/stars/aditya01saini?style=for-the-badge&label=STARS%20GOT&color=f59e0b" />
 
-<td align="center" width="25%">
+<br/><br/>
 
-### 🤖
+🔥 Contribution Streak
 
-### Generative AI
-
-Exploring LLMs, LangChain, Prompt Engineering and AI applications.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-### Problem Solving
-
-Learning through real-world projects, debugging and continuous improvement.
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Daditya01saini%26hide_border%3Dtrue&query=%24.currentStreak&label=STREAK&style=for-the-badge&color=ef4444" />
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-# 🧠 My Tech Journey
+🔥 Contribution Streak
 
-```text
-                         👨‍💻 ADITYA SAINI
-                              │
-              ┌───────────────┴───────────────┐
-              │                               │
-         🌐 WEB DEVELOPMENT              🤖 AI DEVELOPMENT
-              │                               │
-        ┌─────┴─────┐                    ┌────┴────┐
-        │           │                    │         │
-     Frontend    Backend               LLMs    Generative AI
-        │           │                    │         │
-     React       Node.js            LangChain   Prompt Engineering
-        │        Express.js              │         │
-        │           │                    └────┬────┘
-        └─────┬─────┘                         │
-              │                               │
-              └──────────────┬────────────────┘
-                             │
-                             ▼
-                    🚀 AI + FULL STACK
-                       APPLICATIONS
-```
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=aditya01saini&theme=tokyonight&hide_border=true&border_radius=14&mode=weekly"/>
 
-# 🛠️ Technical Skills
+</div>
 
-## 💻 Languages
+📈 Commit Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya01saini&bg_color=0d1117&color=38bdf8&line=22c55e&point=ffffff&area=true&hide_border=true&custom_title=Aditya%20Saini%20-%20Commit%20Activity"/>
+
+</div>
+
+🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aditya01saini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+
+</div>
+
+🧠 My Development Stack
+
+💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript" />
 </p>
 
-## 🎨 Frontend Development
+🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,tailwind,bootstrap" />
 </p>
 
-## ⚙️ Backend Development
+⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## 🗄️ Databases
+🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-## 🤖 AI & Data
+🤖 AI / Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -201,364 +187,387 @@ Learning through real-world projects, debugging and continuous improvement.
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
-## 🧰 Tools & Platforms
+🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,firebase"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,firebase" />
 </p>
 
----
+🚀 Featured Projects
 
-# ⭐ Featured Projects
-
-## 🎓 01 — StudentHub
-
-> **Student Management Platform**
-
-A full-stack student management application focused on organizing student-related operations through a modern web interface and backend API.
-
-**Tech:** `JavaScript` `Node.js` `Express.js` `MongoDB` `REST API`
-
-<a href="https://github.com/aditya01saini/studenthub">
-<img src="https://img.shields.io/badge/View%20Repository-StudentHub-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## 📊 02 — RateMeter API Flow
-
-> **API / Backend Project**
-
-A JavaScript-based backend/API project focused on working with API flows and backend functionality.
-
-**Tech:** `JavaScript` `API`
-
-<a href="https://github.com/aditya01saini/ratemeter-api-flow">
-<img src="https://img.shields.io/badge/View%20Repository-RateMeter%20API%20Flow-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## 🛒 03 — SmartCart E-Commerce
-
-> **E-Commerce Web Application**
-
-A modern e-commerce project focused on creating an online shopping experience with product and cart-related functionality.
-
-**Tech:** `JavaScript` `Web Development`
-
-<a href="https://github.com/aditya01saini/smartcart-ecommerce">
-<img src="https://img.shields.io/badge/View%20Repository-SmartCart-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## ☁️ 04 — CloudHub
-
-> **Cloud-Based Web Application**
-
-A web development project exploring cloud-oriented application functionality and modern JavaScript development.
-
-**Tech:** `JavaScript` `Web Development`
-
-<a href="https://github.com/aditya01saini/cloudHub">
-<img src="https://img.shields.io/badge/View%20Repository-CloudHub-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## 🔐 05 — Digital Signature App
-
-> **Digital Signature Application**
-
-An application focused on digital signature functionality and secure document-related workflows.
-
-**Tech:** `JavaScript`
-
-<a href="https://github.com/aditya01saini/Digital-Signature-App">
-<img src="https://img.shields.io/badge/View%20Repository-Digital%20Signature%20App-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## 🏠 06 — Airbnb Project
-
-> **Property / Travel Listing Application**
-
-A web application inspired by property listing platforms, focused on creating a marketplace-style user experience.
-
-**Tech:** `JavaScript`
-
-<a href="https://github.com/aditya01saini/airbnb-project1">
-<img src="https://img.shields.io/badge/View%20Repository-Airbnb%20Project-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## 🛍️ 07 — Amazon Clone
-
-> **E-Commerce UI Project**
-
-An Amazon-inspired frontend project created to practice e-commerce UI development and web design.
-
-**Tech:** `HTML`
-
-<a href="https://github.com/aditya01saini/Amazon-clone">
-<img src="https://img.shields.io/badge/View%20Repository-Amazon%20Clone-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## 💼 08 — CodeHunt Freelancer Hub
-
-> **Freelancing Platform**
-
-A JavaScript-based platform concept designed around connecting freelancers and clients.
-
-**Tech:** `JavaScript`
-
-<a href="https://github.com/aditya01saini/codeHunt-freelancer-hub-platform">
-<img src="https://img.shields.io/badge/View%20Repository-CodeHunt-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## 💬 09 — ChatFlow HUB
-
-> **Real-Time Communication Project**
-
-A web-based communication project focused on building a modern chat experience.
-
-**Tech:** `JavaScript`
-
-<a href="https://github.com/aditya01saini/ChatFlow-HUB">
-<img src="https://img.shields.io/badge/View%20Repository-ChatFlow%20HUB-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## 🤖 10 — NovaGPT
-
-> **AI / Chat Application**
-
-An AI-focused project exploring conversational interfaces and the integration of modern AI capabilities into web applications.
-
-**Tech:** `JavaScript` `AI`
-
-<a href="https://github.com/aditya01saini/NovaGPT">
-<img src="https://img.shields.io/badge/View%20Repository-NovaGPT-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## 🐙 11 — GitHub Clone
-
-> **GitHub-Inspired Web Application**
-
-A project created to recreate important GitHub-style functionality and practice modern web development.
-
-**Tech:** `JavaScript`
-
-<a href="https://github.com/aditya01saini/github-clone">
-<img src="https://img.shields.io/badge/View%20Repository-GitHub%20Clone-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## 📹 12 — VideoCall
-
-> **Video Calling Application**
-
-A web-based video communication project exploring real-time communication concepts.
-
-**Tech:** `JavaScript`
-
-<a href="https://github.com/aditya01saini/VideoCall_1">
-<img src="https://img.shields.io/badge/View%20Repository-VideoCall-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## 💼 13 — LinkedIn 01
-
-> **LinkedIn-Inspired Web Project**
-
-A frontend web development project inspired by professional networking platforms.
-
-**Tech:** `JavaScript`
-
-<a href="https://github.com/aditya01saini/Linkedin_01">
-<img src="https://img.shields.io/badge/View%20Repository-LinkedIn%2001-0ea5e9?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-# 🤖 Generative AI Journey
-
-I'm currently expanding my development skills into **Generative AI** and exploring how AI can be integrated with modern full-stack applications.
-
-### 🔬 Currently Exploring
-
-| Area                  | Focus                             |
-| --------------------- | --------------------------------- |
-| 🤖 Generative AI      | AI-powered applications           |
-| 🧠 LLMs               | Large Language Model applications |
-| 🔗 LangChain          | LLM application development       |
-| ✍️ Prompt Engineering | Effective AI interaction          |
-| 💬 AI Chatbots        | Conversational applications       |
-| 📚 RAG                | Retrieval Augmented Generation    |
-| 🔌 AI APIs            | LLM API integration               |
-| 🌐 AI + Full Stack    | Intelligent web applications      |
-
----
-
-# 📈 GitHub Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya01saini&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Aditya%20Saini's%20Contribution%20Graph"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aditya01saini&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya01saini&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aditya01saini&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/aditya01saini/aditya01saini/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aditya01saini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
-
-</p>
-
----
-
-# 🎯 2026 Development Goals
+A selection of projects I've built while developing my Full Stack and AI skills.
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### 🌐 Full Stack
+🎓 StudentHub
 
-* [x] Learn React.js
-* [x] Learn Node.js
-* [x] Learn Express.js
-* [x] Work with MongoDB
-* [x] Work with PostgreSQL
-* [ ] Advanced Backend Architecture
-* [ ] Production-level Applications
+Student Management Platform
+
+A full-stack platform designed to manage student-related operations through a modern web interface and backend services.
+
+Stack: JavaScript Node.js Express.js MongoDB
+
+<a href="https://github.com/aditya01saini/studenthub">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
+🤖 NovaGPT
 
-* [x] Explore Generative AI
-* [x] Prompt Engineering
-* [ ] Advanced LLM Applications
-* [ ] LangChain Projects
-* [ ] RAG Applications
-* [ ] AI + MERN Applications
-* [ ] Production AI Systems
+AI / Chat Application
+
+An AI-focused project exploring conversational interfaces and AI integration in modern web applications.
+
+Stack: JavaScript AI
+
+<a href="https://github.com/aditya01saini/NovaGPT">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8b5cf6?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🛒 SmartCart E-Commerce
+
+E-Commerce Web Application
+
+A shopping platform project focused on modern e-commerce UI and application functionality.
+
+Stack: JavaScript
+
+<a href="https://github.com/aditya01saini/smartcart-ecommerce">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+💼 CodeHunt
+
+Freelancer Hub Platform
+
+A platform concept for connecting freelancers and clients through a modern web interface.
+
+Stack: JavaScript
+
+<a href="https://github.com/aditya01saini/codeHunt-freelancer-hub-platform">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+💬 ChatFlow HUB
+
+Communication Application
+
+A web-based project focused on creating a modern chat and communication experience.
+
+Stack: JavaScript
+
+<a href="https://github.com/aditya01saini/ChatFlow-HUB">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06b6d4?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+📹 VideoCall
+
+Video Communication App
+
+A web-based video communication project exploring real-time communication concepts.
+
+Stack: JavaScript
+
+<a href="https://github.com/aditya01saini/VideoCall_1">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06b6d4?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🏠 Airbnb Project
+
+Property Listing Application
+
+A web project inspired by property and travel listing platforms.
+
+Stack: JavaScript
+
+<a href="https://github.com/aditya01saini/airbnb-project1">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🛍️ Amazon Clone
+
+E-Commerce UI
+
+An Amazon-inspired frontend project created to practice e-commerce UI development.
+
+Stack: HTML
+
+<a href="https://github.com/aditya01saini/Amazon-clone">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-f97316?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🐙 GitHub Clone
+
+GitHub-Inspired Application
+
+A project built to practice GitHub-style interfaces and web development concepts.
+
+Stack: JavaScript
+
+<a href="https://github.com/aditya01saini/github-clone">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6366f1?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🔐 Digital Signature App
+
+Digital Signature Application
+
+A project focused on digital-signature functionality and document workflows.
+
+Stack: JavaScript
+
+<a href="https://github.com/aditya01saini/Digital-Signature-App">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+☁️ CloudHub
+
+Cloud-Oriented Web Project
+
+A JavaScript project exploring modern web development and cloud-oriented functionality.
+
+Stack: JavaScript
+
+<a href="https://github.com/aditya01saini/cloudHub">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06b6d4?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+📊 RateMeter API Flow
+
+API / Backend Project
+
+A JavaScript project focused on API flows and backend functionality.
+
+Stack: JavaScript API
+
+<a href="https://github.com/aditya01saini/ratemeter-api-flow">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-22c55e?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+💼 LinkedIn 01
+
+Professional Networking UI
+
+A web development project inspired by professional networking platforms.
+
+Stack: JavaScript
+
+<a href="https://github.com/aditya01saini/Linkedin_01">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563eb?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🚀 More Projects
+
+I continuously build, experiment and learn through new projects.
+
+<a href="https://github.com/aditya01saini?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
 </table>
 
----
+🤖 Generative AI Journey
 
-# 💡 My Development Philosophy
+I'm moving beyond traditional web development toward AI-powered software engineering.
 
-```text
-                  💡 THINK
-                    │
-                    ▼
-                 🧠 LEARN
-                    │
-                    ▼
-                 💻 BUILD
-                    │
-                    ▼
-                 🧪 TEST
-                    │
-                    ▼
-                🐛 DEBUG
-                    │
-                    ▼
-                 🚀 DEPLOY
-                    │
-                    ▼
-                📈 IMPROVE
-                    │
-                    └──────────────► 🔁 REPEAT
-```
+                   🤖 GENERATIVE AI
+                          │
+            ┌─────────────┼─────────────┐
+            ▼             ▼             ▼
+          LLMs       Prompt Eng.    LangChain
+            │             │             │
+            └─────────────┼─────────────┘
+                          ▼
+                    AI Applications
+                          │
+                          ▼
+                    RAG / Chatbots
+                          │
+                          ▼
+                 Full Stack Integration
+                          │
+                          ▼
+                🚀 Intelligent Products
 
-> **"Don't just learn technology. Build something with it."**
+🔬 Currently Exploring
 
----
+🧠 Large Language Models
 
-# 📫 Let's Connect
+🤖 Generative AI
 
-<p align="center">
+🔗 LangChain
+
+✍️ Prompt Engineering
+
+💬 AI Chatbots
+
+📚 RAG Applications
+
+🔌 LLM API Integration
+
+🌐 AI + Full Stack Applications
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=aditya01saini&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya01saini&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aditya01saini/aditya01saini/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+🎯 2026 Goals
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🌐 Full Stack Development
+
+React.js
+
+Node.js
+
+Express.js
+
+MongoDB
+
+PostgreSQL
+
+Advanced Backend Architecture
+
+Production-Level Applications
+
+Scalable API Design
+
+</td>
+
+<td width="50%" valign="top">
+
+🤖 Artificial Intelligence
+
+Generative AI
+
+Prompt Engineering
+
+Advanced LLM Applications
+
+LangChain Projects
+
+RAG Applications
+
+AI + MERN Applications
+
+Production AI Systems
+
+</td>
+</tr>
+</table>
+
+📬 Let's Connect
+
+<div align="center">
 
 <a href="https://github.com/aditya01saini">
 <img src="https://img.shields.io/badge/GitHub-Aditya%20Saini-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/aditya-saini">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Saini-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Saini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:adityasaini35947@gmail.com">
 <img src="https://img.shields.io/badge/Email-adityasaini35947%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
----
+</div>
 
 <div align="center">
 
-### 🚀 Building Today. Learning Every Day. Creating Tomorrow.
+💙 Build. Learn. Ship. Repeat. 🚀
 
-**Thanks for visiting my GitHub profile!**
+Thanks for visiting my GitHub profile!
 
-⭐ Feel free to explore my repositories and connect with me.
+⭐ Explore my repositories • 🤝 Let's collaborate • 🚀 Let's build something amazing
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=130&section=footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0369a1,100:06b6d4&height=140&section=footer"/>
 
 </div>
-
